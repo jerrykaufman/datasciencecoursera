@@ -2,7 +2,9 @@
 title: "HelloWorld"
 author: "Me"
 date: "4/20/2021"
-output: pdf_document
+output:
+  html_document:
+    df_print: paged
 ---
 
-##This is a markdown file
+## This is a markdown file
